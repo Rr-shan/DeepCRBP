@@ -19,3 +19,5 @@ IGF2BP2, IGF2BP3, LIN28A, LIN28B, METTL3, MOV10, PTB, PUM2, QKI, SFRS1, TAF15, T
 You can choose from the list of proteins in the main.py
 
 
+batchsize 50 
+learningrate 5 × 10−4
