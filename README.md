@@ -29,4 +29,4 @@ gp2lib.py extracts the secondary structure of circRNA
 
 pytorchtools.py implements an early stop mechanism
 
-Deal_Kmer.py file_encoding.py preprocess the data
+Deal_Kmer.py and file_encoding.py preprocess the data
