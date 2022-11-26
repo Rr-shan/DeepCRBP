@@ -20,4 +20,13 @@ You can choose from the list of proteins in the main.py
 
 
 batchsize 50 
+
 learningrate 5 × 10−4
+
+model.py defines our model structure 
+
+gp2lib.py extracts the secondary structure of circRNA 
+
+pytorchtools.py implements an early stop mechanism
+
+Deal_Kmer.py file_encoding.py preprocess the data
